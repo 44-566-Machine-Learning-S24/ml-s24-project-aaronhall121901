@@ -2,4 +2,8 @@
 # 44-566 machine-learning project
 Dataset: https://www.kaggle.com/datasets/raphaelmanayon/temperature-and-ice-cream-sales
 
-This project revolves around profit from ice cream sale and its correlation with daily average temperature. While it's not uncommon for more people to want ice cream on a hot day, I was curious about how tightly bound that relationship is. 
+This project revolves around profit from ice cream sale and its correlation with daily average temperature. While it's not uncommon for more people to want ice cream on a hot day, I was curious about how tightly bound that relationship is.
+
+In the first notebook, "innitial_exploration", The csv file containing the data is read, where we can see the keys of "Temerature" and "Ice Cream Profits". The data is then cleaned, ensuring no null values. This data is then split into training and test sets.
+
+In the second notebook, "
